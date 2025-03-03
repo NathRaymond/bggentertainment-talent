@@ -88,7 +88,7 @@
                                 <label class="mb-1">You agree to the BGG Entertainment <a href="#">User Agreement</a>, <a href="#">Privacy Policy</a>, and <a href="#">Cookie Policy</a>.</label>
                             </div>
                             <button class="btn btn-success btn-block text-uppercase" type="submit" style="color: black;"> JOIN AS A FREELANCER</button>
-                            <button class="btn btn-success btn-block text-uppercase" type="submit" style="color: black;"> JOIN AS A CLIENT / CONTRACTOR </button>
+                            <button class="btn btn-success btn-block text-uppercase" type="submit" style="color: black;"> JOIN AS A CLIENT </button>
                             <div class="py-3 d-flex align-item-center">
                                 <a href="{{ route('password.request') }}">Forgot password?</a>
                                 <span class="ml-auto"> Already on BGG Entertainment? <a href="{{ route("login")}}">Sign in</a></span>
