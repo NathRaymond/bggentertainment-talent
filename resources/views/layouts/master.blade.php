@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Gurdeep singh osahan">
-    <meta name="author" content="Gurdeep singh osahan">
+    <meta name="description" content="BGG ENTERTAINMENT">
+    <meta name="author" content="BGG ENTERTAINMENT">
     <title>BGGTalent</title>
     <!-- Favicon Icon -->
     <link rel="icon" type="image/png" href="{{ asset("assets/images/bgg_logo.avif") }}">

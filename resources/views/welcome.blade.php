@@ -119,7 +119,7 @@
             <div class="col-lg-8 m-auto ">
                 <div class="homepage-search-title">
                     <h1 class="mb-3 text-shadow text-white font-weight-bold" style="text-align: center;">Connect with Top Freelance Talent Worldwide</h1>
-                    <h5 class="mb-5 text-shadow text-white-50 font-weight-normal" style="text-align: center;">Countless individuals utilize BGGTalent to bring their concepts to life..
+                    <h5 class="mb-5 text-shadow text-white-50 font-weight-normal" style="text-align: center; color: white !important;">Countless individuals utilize BGG Entertainment to bring their concepts to life..
                     </h5>
                 </div>
                 <div class="homepage-search-form">
@@ -225,7 +225,7 @@
     <div class="about-section py-5">
         <div class="row align-items-center">
             <div class="col-md-6">
-                <h2>Get Work Done fater On Miver
+                <h2>Get Work Done faster On BGG Entertainment
                     , <br>With Confidence
                 </h2>
                 <ul>
@@ -301,7 +301,7 @@
 <div class="freelance-projects py-5">
     <div class="container">
         <h2>
-            Inspiring work made on BGGTalent
+            Inspiring work made on BGG Entertainment
             <a href="#" class="float-right">See More ></a>
         </h2>
         <div class="row freelance-slider">
@@ -374,7 +374,7 @@
                 </div>
             </div>
             <div class="text-content">
-                <p>"Being a small but growing brand, we have to definitely do a lot more with less. And when you want to create a business bigger than yourself, you’re going to need help. And that’s what Miver
+                <p>"Being a small but growing brand, we have to definitely do a lot more with less. And when you want to create a business bigger than yourself, you’re going to need help. And that’s what BGG Entertainment
                     does"
                 </p>
                 <span>Tim and Dan Joo, Co-founders</span>

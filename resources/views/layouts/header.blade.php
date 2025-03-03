@@ -8,11 +8,11 @@
         <!-- Topbar Navbar -->
         <ul class="navbar-nav align-items-center ml-auto">
             <li class="ml-auto nav-item">
-                <a class="btn btn-success" href="" style="margin: 9px;">
+                <a href="{{ route("register") }}" class="btn btn-success" style="margin: 9px;">
                     <span> SIGN UP </span></a>
             </li>
             <li class="nav-item">
-                <a class="btn btn-outline-success" href="" style="margin: 9px;">
+                <a href="{{ route("login") }}" class="btn btn-outline-success" style="margin: 9px;">
                     <span> LOGIN </span></a>
             </li>
         </ul>
@@ -69,14 +69,16 @@
                     <i class="fa fa-fw fa-trophy"></i>
                     <span>Become A Seller</span></a>
             </li> -->
-            <li class="nav-item">
-                <form action="#" class="nav-link p-0">
-                    <div class="btn-group w-100">
-                        <input type="text" class="form-control" name="query" placeholder="Search Service...">
-                        <button class="btn btn-success">Search</button>
+            <form class="d-none d-sm-inline-block form-inline mr-auto my-2 my-md-0 mw-100 navbar-search">
+                <div class="input-group">
+                    <input type="text" class="form-control bg-white small" placeholder="Find Services..." aria-label="Search" aria-describedby="basic-addon2">
+                    <div class="input-group-append">
+                        <button class="btn btn-success" type="button">
+                            <i class="fa fa-search fa-sm"></i>
+                        </button>
                     </div>
-                </form>
-            </li>
+                </div>
+            </form>
         </ul>
     </div>
 </nav>

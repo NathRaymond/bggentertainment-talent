@@ -31,10 +31,10 @@
             <ul class="list">
                 <li><a href="#">Help &amp; Support</a></li>
                 <li><a href="#">Trust &amp; Safety</a></li>
-                <li><a href="#">Selling on Miver
+                <li><a href="#">Selling on BGG Entertainment
                     </a>
                 </li>
-                <li><a href="#">Buying on Miver
+                <li><a href="#">Buying on BGG Entertainment
                     </a>
                 </li>
             </ul>
@@ -50,21 +50,21 @@
                 <li><a href="#">Affiliates</a></li>
                 <li><a href="#">Invite a Friend</a></li>
                 <li><a href="#">Become a Seller</a></li>
-                <li><a href="#">Miver
+                <li><a href="#">BGG Entertainment
                         Elevate<small>Exclusive Benefits</small></a>
                 </li>
             </ul>
         </div>
         <div class="footer-list">
-            <h2>More From Miver</h2>
+            <h2>More From BGG Entertainment</h2>
             <ul class="list">
-                <li><a href="#">Miver
+                <li><a href="#">BGG Entertainment
                         Pro</a>
                 </li>
-                <li><a href="#">Miver
+                <li><a href="#">BGG Entertainment
                         Studios</a>
                 </li>
-                <li><a href="#">Miver
+                <li><a href="#">BGG Entertainment
                         Logo Maker</a>
                 </li>
                 <li><a href="#">Get Inspired</a></li>
@@ -80,7 +80,7 @@
                 <img src="{{ asset("assets/images/logo.svg") }}">
             </a>
         </div>
-        <p>© Copyright 2022 Miver. All Rights Reserved
+        <p>© Copyright 2022 BGG Entertainment. All Rights Reserved
         </p>
         <ul class="social">
             <li>

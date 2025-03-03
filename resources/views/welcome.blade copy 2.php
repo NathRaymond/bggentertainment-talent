@@ -111,7 +111,7 @@
             <div class="col-lg-8 m-auto ">
                 <div class="homepage-search-title">
                     <h1 class="mb-3 text-shadow text-white font-weight-bold" style="text-align: center;">Connect with Top Freelance Talent Worldwide</h1>
-                    <h5 class="mb-5 text-shadow text-white-50 font-weight-normal" style="text-align: center;">Countless individuals utilize BGGTalent to bring their concepts to life..
+                    <h5 class="mb-5 text-shadow text-white-50 font-weight-normal" style="text-align: center;">Countless individuals utilize BGG Entertainment to bring their concepts to life..
                     </h5>
                 </div>
                 <div class="homepage-search-form">
@@ -295,7 +295,7 @@
 <div class="freelance-projects py-5">
     <div class="container">
         <h2>
-            Inspiring work made on BGGTalent
+            Inspiring work made on BGG Entertainment
             <a href="#" class="float-right">See More ></a>
         </h2>
         <div class="row freelance-slider">
