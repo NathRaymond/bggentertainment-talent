@@ -313,7 +313,9 @@
                 </div>
                 <div class="col-lg-8 right">
                     <div class="p-4 bg-white rounded shadow-sm mb-3">
-                        <h5 class="mb-4 font-weight-bold text-center">Take these steps to select a package for your account </h5>
+                        <h5 class="mb-4 font-weight-bold text-center">Unlock Exclusive Benefits by Choosing the Perfect Package for Your Account!</h5>
+                        <p class="mb-4 font-weight-bold" style="font-size: 14px !important;">At BGG Entertainment, we’ve got our packages to give you the best value and experience. Here’s why choosing a package is the right move for you: </p>
+
                         <div class="row">
                             <div class="col-lg-4">
                                 <div class="display-4 my-2">
