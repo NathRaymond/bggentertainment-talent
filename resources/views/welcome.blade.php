@@ -149,6 +149,7 @@
     <li><img src="{{ asset("assets/images/sponsors/sponsor5.jpg") }}"></li>
     <li><img src="{{ asset("assets/images/sponsors/sponsor6.jpg") }}"></li>
     <li><img src="{{ asset("assets/images/sponsors/sponsor7.jpg") }}"></li>
+    <li><img src="{{ asset("assets/images/sponsors/eko_hotel.jpeg") }}"></li>
 </ul>
 <div class="services-wrapper bg-white py-5">
     <div class="container">

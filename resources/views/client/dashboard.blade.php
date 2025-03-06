@@ -268,9 +268,9 @@
                             Seller Pages
                         </a>
                         <div class="dropdown-menu">
-                            <a class="dropdown-item" href="dashboard.html">Dashboard</a>
-                            <a class="dropdown-item" href="orders.html">Orders</a>
-                            <a class="dropdown-item" href="gigs.html">Gigs</a>
+                            <a class="dropdown-item" href="">Dashboard</a>
+                            <a class="dropdown-item" href="">Orders</a>
+                            <a class="dropdown-item" href="">Gigs</a>
                             <a class="dropdown-item" href="earnings.html">Earnings</a>
                         </div>
                     </li>
