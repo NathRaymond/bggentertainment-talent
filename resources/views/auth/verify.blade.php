@@ -38,7 +38,7 @@
                         </div>
                         @endif
                         <div class="text-center mb-4">
-                            <a href="index-2.html"><img src="{{ asset("assets/images/bgg_logo.avif") }}" alt=""></a>
+                            <a href=""><img src="{{ asset("assets/images/bgg_logo.avif") }}" alt=""></a>
                             <h5 class="font-weight-bold mt-3">Verify Your Email Address</h5>
                             <p class="text-muted"> We’ve sent a verification link to your email. Please check your inbox and click the link to verify your account.</p>
                         </div>

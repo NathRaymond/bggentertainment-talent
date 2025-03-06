@@ -34,7 +34,7 @@
                 <div class="col-lg-4 mx-auto">
                     <div class="osahan-login py-4">
                         <div class="text-center mb-4">
-                            <a href="index-2.html"><img src="{{ asset("assets/images/bgg_logo.avif") }}" alt=""></a>
+                            <a href=""><img src="{{ asset("assets/images/bgg_logo.avif") }}" alt=""></a>
                             <h5 class="font-weight-bold mt-3">Welcome Back</h5>
                             <p class="text-muted">Don't miss your next opportunity. Sign in to stay updated on your professional world.</p>
                         </div>
@@ -82,8 +82,8 @@
                                 </div>
                             </div>
                             <div class="py-3 d-flex align-item-center">
-                                <a href="forgot-password.html">Forgot password?</a>
-                                <span class="ml-auto"> New to Miver? <a href="register.html">Join now</a></span>
+                                <a href="">Forgot password?</a>
+                                <span class="ml-auto"> New to Miver? <a href="">Join now</a></span>
                             </div>
                         </form>
                     </div>

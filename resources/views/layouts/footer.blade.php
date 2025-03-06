@@ -76,7 +76,7 @@
     </div>
     <div class="copyright">
         <div class="logo">
-            <a href="index-2.html">
+            <a href="">
                 <img src="{{ asset("assets/images/logo.svg") }}">
             </a>
         </div>

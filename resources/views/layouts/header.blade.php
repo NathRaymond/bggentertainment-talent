@@ -41,13 +41,13 @@
                         Categories
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownPortfolio">
-                        <a class="dropdown-item" href="product.html">Product List</a>
-                        <a class="dropdown-item" href="product2.html">Product List 2</a>
-                        <a class="dropdown-item" href="product-detail.html">List Detail</a>
-                        <a class="dropdown-item" href="profile.html">Profile</a>
-                        <a class="dropdown-item" href="company-profile.html">Company Profile</a>
-                        <a class="dropdown-item" href="alerts.html">Alerts</a>
-                        <a class="dropdown-item" href="messages.html">Messages</a>
+                        <a class="dropdown-item" href="">Product List</a>
+                        <a class="dropdown-item" href="">Product List 2</a>
+                        <a class="dropdown-item" href="">List Detail</a>
+                        <a class="dropdown-item" href="">Profile</a>
+                        <a class="dropdown-item" href="">Company Profile</a>
+                        <a class="dropdown-item" href="">Alerts</a>
+                        <a class="dropdown-item" href="">Messages</a>
                     </div>
                 </li>
                 <li class="nav-item">
@@ -56,10 +56,10 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="about.html">About</a>
+                    <a class="nav-link" href="">About</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="contact.html">Contact</a>
+                    <a class="nav-link" href="">Contact</a>
                 </li>
             </ul>
         </div>

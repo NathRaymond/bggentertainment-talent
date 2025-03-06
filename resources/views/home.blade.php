@@ -120,7 +120,7 @@
                                 <div class="dropdown-notifications-item-content-text">New user request. Woody has requested access to the organization.</div>
                             </div>
                         </a>
-                        <a class="dropdown-item dropdown-notifications-footer" href="alerts.html">View All Alerts</a>
+                        <a class="dropdown-item dropdown-notifications-footer" href="">View All Alerts</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown no-arrow no-caret mr-3 dropdown-notifications">
@@ -152,7 +152,7 @@
                                 <div class="dropdown-notifications-item-content-details">Diane Chambers · 2d</div>
                             </div>
                         </a>
-                        <a class="dropdown-item dropdown-notifications-footer" href="messages.html">Read All Messages</a>
+                        <a class="dropdown-item dropdown-notifications-footer" href="">Read All Messages</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown no-arrow no-caret dropdown-user">
@@ -166,7 +166,7 @@
                             </div>
                         </h6>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="account.html">
+                        <a class="dropdown-item" href="">
                             <div class="dropdown-item-icon">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-settings">
                                     <circle cx="12" cy="12" r="3"></circle>
@@ -209,11 +209,11 @@
                             My Business
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownPortfolio">
-                            <a class="dropdown-item" href="product.html">Order</a>
-                            <a class="dropdown-item" href="product2.html">Gigs</a>
-                            <a class="dropdown-item" href="product-detail.html">Job</a>
-                            <a class="dropdown-item" href="profile.html">Profile</a>
-                            <a class="dropdown-item" href="messages.html">Messages</a>
+                            <a class="dropdown-item" href="">Order</a>
+                            <a class="dropdown-item" href="">Gigs</a>
+                            <a class="dropdown-item" href="">Job</a>
+                            <a class="dropdown-item" href="">Profile</a>
+                            <a class="dropdown-item" href="">Messages</a>
                         </div>
                     </li>
 
@@ -499,7 +499,7 @@
             </div>
             <div class="copyright">
                 <div class="logo">
-                    <a href="index-2.html">
+                    <a href="">
                         <img src="{{ asset("assets/images/logo.svg") }}">
                     </a>
                 </div>
@@ -544,7 +544,5 @@
     <script src="{{ asset("assets/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js") }}" data-cf-settings="0754bf9cd6893205619ca9c5-|49" defer></script>
     <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"910cc5541f1d738b","version":"2025.1.0","r":1,"serverTiming":{"name":{"cfExtPri":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"token":"dd471ab1978346bbb991feaa79e6ce5c","b":1}' crossorigin="anonymous"></script>
 </body>
-
-<!-- Mirrored from askbootstrap.com/preview/BGG Entertainment/dashboard.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 12 Feb 2025 13:03:09 GMT -->
 
 </html>
