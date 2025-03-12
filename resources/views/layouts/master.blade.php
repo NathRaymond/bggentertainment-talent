@@ -31,7 +31,7 @@
     @include("layouts.header")
     @yield("contents")
     <footer class="bg-white">
-        @include("layouts.Footer")
+        @include("layouts.footer")
     </footer>
     <script data-cfasync="false" src="{{ asset("assets/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js") }}"></script>
     <script src="{{ asset("assets/vendor/jquery/jquery.min.js") }}" type="ccf84049af8c6be94fbc0c05-text/javascript"></script>

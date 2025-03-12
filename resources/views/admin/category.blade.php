@@ -1,13 +1,11 @@
 @extends("layouts.admin-layouts.admin-master")
 @section('headlinks')
-    <meta name="csrf-token" content="{{ csrf_token() }}">
+<meta name="csrf-token" content="{{ csrf_token() }}">
 @endsection
 @section("contents")
 <div class="container-fluid">
-
     <div class="row">
         <div class="col">
-
             <div class="h-100">
                 <div class="row mb-3 pb-1">
                     <div class="col-12">
@@ -31,9 +29,9 @@
                             </div>
                             <div class="card-body">
 
-                            <table
-                                            class="table table-bordered dt-responsive nowrap table-striped align-middle data-table1"
-                                            style="width:100%">
+                                <table
+                                    class="table table-bordered dt-responsive nowrap table-striped align-middle data-table1"
+                                    style="width:100%">
                                     <thead>
                                         <tr>
                                             <th scope="col" style="width: 10px">
@@ -125,6 +123,5 @@
 
         </div> <!-- end col -->
     </div>
-
 </div>
 @endsection
